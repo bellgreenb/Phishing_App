@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C359521-39EC-4F50-BFE5-D7084C5CD0A6}|Phishing_App.vbproj|c:\\users\\bellg\\onedrive\\desktop\\past classes\\application development\\phishing_app\\frmsecurelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C359521-39EC-4F50-BFE5-D7084C5CD0A6}|Phishing_App.vbproj|solutionrelative:frmsecurelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Phishing_App||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C359521-39EC-4F50-BFE5-D7084C5CD0A6}|Phishing_App.vbproj|C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\frmsecurelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C359521-39EC-4F50-BFE5-D7084C5CD0A6}|Phishing_App.vbproj|solutionrelative:frmsecurelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phishing_App",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\Phishing_App.vbproj",
+              "RelativeDocumentMoniker": "Phishing_App.vbproj",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\Phishing_App.vbproj",
+              "RelativeToolTip": "Phishing_App.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-13T20:45:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSecureLogin.vb",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\frmSecureLogin.vb",
+              "RelativeDocumentMoniker": "frmSecureLogin.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\frmSecureLogin.vb",
+              "RelativeToolTip": "frmSecureLogin.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T17:08:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSecureLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\Phishing_App\\frmSecureLogin.vb",
+              "RelativeDocumentMoniker": "frmSecureLogin.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Application Development\\Phishing_App\\frmSecureLogin.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Application Development\\Phishing_App\\frmSecureLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T16:56:08.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

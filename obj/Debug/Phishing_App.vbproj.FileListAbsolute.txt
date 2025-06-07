@@ -1,0 +1,12 @@
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\bin\Debug\Phishing_App.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\bin\Debug\Phishing_App.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\bin\Debug\Phishing_App.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\bin\Debug\Phishing_App.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.frmSecureLogin.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\Phishing_App\obj\Debug\Phishing_App.pdb
